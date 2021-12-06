@@ -1,0 +1,62 @@
+
+i {
+  height: 40px;
+  width: 40px;
+}
+
+.navbar {
+  margin-bottom: 0px !important;
+}
+
+.answerButton {
+  margin: 40px;
+  color: rgb(0, 68, 148);
+  border-color: rgb(0, 68, 148);
+  font-size: 20px;
+  min-width: 250px;
+}
+
+.trueFalseButton {
+  color: white !important;
+  border-color: white !important;
+}
+
+button:hover {
+  background-color: rgb(0, 68, 148);
+  color: white;
+}
+
+
+.dunker-picture {
+  height: 17mm;
+  width: 81mm;
+  margin-right: 30px;
+}
+
+.progress-bar {
+  background-color: rgb(237, 28, 36);
+  border-radius: 0% !important;
+}
+
+.showInColumn {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn:disabled{
+  opacity: 1 !important;
+}
+
+.showInRow {
+  flex-direction: row;
+}
+
+.next {
+  width: 200px;
+  font-size: 15px;
+  margin-right: 200px;
+  background-color: rgb(0, 68, 148);
+}

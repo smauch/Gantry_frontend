@@ -1,0 +1,9 @@
+<div *ngIf="!backend.gantry.connected" class="alert alert-danger fixed-top w-100" role="alert">
+    Gantry backend is not connected <button class="btn btn-danger" type="button" (click)="backend.updateStatus()">Reconnect</button>
+</div>
+<div *ngIf="backend.gantry.errorStr != ''" class="alert alert-danger fixed-bottom w-100" role="alert"><button class="btn btn-danger" type="button" (click)="backend.updateStatus()">Refresh</button>
+    Error Message: {{backend.gantry.errorStr}}
+</div>
+
+<router-outlet></router-outlet>
+

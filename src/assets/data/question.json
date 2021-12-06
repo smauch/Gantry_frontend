@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "question": "When was Dunkermotoren founded?",
+    "answerList": [
+      {
+        "answer": "1950",
+        "isCorrect": true
+      },
+      {
+        "answer": "1970",
+        "isCorrect": false
+      },
+      {
+        "answer": "1960",
+        "isCorrect": false
+      },
+      {
+        "answer": "1940",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Dunkermotoren is a global market leader in?",
+    "answerList": [
+      {
+        "answer": "Cuckoo clocks",
+        "isCorrect": false
+      },
+      {
+        "answer": "Smart BLDC motors",
+        "isCorrect": true
+      },
+      {
+        "answer": "Washing machines",
+        "isCorrect": false
+      },
+      {
+        "answer": "Black forest ham",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How many employees are working at Dunkermotoren/MAE?",
+    "answerList": [
+      {
+        "answer": "250",
+        "isCorrect": false
+      },
+      {
+        "answer": "575",
+        "isCorrect": false
+      },
+      {
+        "answer": "3000",
+        "isCorrect": false
+      },
+      {
+        "answer": "1800",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "In which power range are the Dunkermotoren/MAE products?",
+    "answerList": [
+      {
+        "answer": "8 - 8.000 W",
+        "isCorrect": false
+      },
+      {
+        "answer": "4 - 4.000 W",
+        "isCorrect": true
+      },
+      {
+        "answer": "50 - 50.000 W",
+        "isCorrect": false
+      },
+      {
+        "answer": "100 - 100.000 W",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How many meters of copper wire are used in the SA 3814 linear motor?",
+    "answerList": [
+      {
+        "answer": "5m",
+        "isCorrect": false
+      },
+      {
+        "answer": "100m",
+        "isCorrect": false
+      },
+      {
+        "answer": "750m",
+        "isCorrect": true
+      },
+      {
+        "answer": "3500m",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What energy efficiency class can the BG motors of Dunkermotoren achieve?",
+    "answerList": [
+      {
+        "answer": "IE3",
+        "isCorrect": false
+      },
+      {
+        "answer": "IE4",
+        "isCorrect": false
+      },
+      {
+        "answer": "IE2",
+        "isCorrect": false
+      },
+      {
+        "answer": "IE5",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How many product combinations does the Dunkermotoren modular system offer?",
+    "answerList": [
+      {
+        "answer": "50",
+        "isCorrect": false
+      },
+      {
+        "answer": "50.000.000",
+        "isCorrect": true
+      },
+      {
+        "answer": "50.000",
+        "isCorrect": false
+      },
+      {
+        "answer": "500.000",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "When did Dunkermotoren launch the first smart motor (with integrated controller)?",
+    "answerList": [
+      {
+        "answer": "1879",
+        "isCorrect": false
+      },
+      {
+        "answer": "2009",
+        "isCorrect": false
+      },
+      {
+        "answer": "1999",
+        "isCorrect": true
+      },
+      {
+        "answer": "2019",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What is the name of Dunkermotoren's software tool for motor commissioning?",
+    "answerList": [
+      {
+        "answer": "Motor Booster",
+        "isCorrect": false
+      },
+      {
+        "answer": "Drive Assistant",
+        "isCorrect": true
+      },
+      {
+        "answer": "Try and Error",
+        "isCorrect": false
+      },
+      {
+        "answer": "Super Mega Hyper Tool",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Which motor technologies are driving this chocolat dispenser?",
+    "answerList": [
+      {
+        "answer": "Tubular linear motor & smart BLDC",
+        "isCorrect": true
+      },
+      {
+        "answer": "Belt drive & asynchronous motor",
+        "isCorrect": false
+      },
+      {
+        "answer": "Pneumatic & brushtype motor",
+        "isCorrect": false
+      },
+      {
+        "answer": "Steam and combustion engines",
+        "isCorrect": false
+      }
+    ]
+  }
+
+]

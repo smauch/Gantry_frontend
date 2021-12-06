@@ -1,0 +1,21 @@
+
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgb(0, 68, 148);">
+    <h3 class="text-white">Choose your favourite chocolate!</h3>
+</nav>
+  
+<div class="container">
+  <div class="d-flex flex-wrap justify-content-around mt-4">
+    <div *ngFor="let picture of images" class="rs-chocolate" (click)="backendCall(picture.number)" style="cursor: pointer;" routerLink="/quiz">
+      <button type="button" class="btn-round btn">
+        Click me!
+      </button>
+      <img style="max-width: 100%;" src={{picture.url}}>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="d-flex flex-wrap justify-content-end">
+      <img class="footer-pics" src="assets/img/dunker_logo.png">
+      <img class="footer-pics" src="assets/img/linkit_logo.png">
+  </div>
+</div>
