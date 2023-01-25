@@ -7,6 +7,10 @@ Randomly moved small chocolate bars of different flavours are recognised and han
 
 ![DSC05275](https://user-images.githubusercontent.com/34418781/214542775-1b7d7d20-e885-47ce-8268-d5d87fd6e749.jpg)
 
+### Watch the project video
+https://www.youtube.com/watch?v=5CfFuI3hKgs
+
+## Dev
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
